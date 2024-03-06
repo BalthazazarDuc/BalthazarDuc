@@ -1,4 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Balthazar Duc =====================================================================================================================================  MSc student in Sustainable Management and Technology at EPFL, IMD and UNIL --------------------------------------------------------------------------  * 🌍  I'm based in Geneva * ✉️  You can contact me at [balthazar.duc@epfl.ch](mailto:balthazar.duc@epfl.ch) * 🚀  I'm currently working on [Increase my knowledge like Goku in the time room](http://github.com/BalthazazarDuc/BalthazarDuc/blob/main/README.md)
+#Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Balthazar Duc 
+##MSc student in Sustainable Management and Technology at EPFL, IMD and UNIL
+* 🌍  I'm based in Geneva * ✉️  You can contact me at [balthazar.duc@epfl.ch](mailto:balthazar.duc@epfl.ch) 
+*  🚀  I'm currently working on [Increase my knowledge like Goku in the time room](http://github.com/BalthazazarDuc/BalthazarDuc/blob/main/README.md)
 
 ### Skills  
 
